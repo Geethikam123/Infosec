@@ -75,6 +75,7 @@ Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 <p>
 CIA is the abbreviation for Confidentiality, Integrity and Availability; three pillars of effective IT security system which helps in protecting data and securing information in organisations.
 <br>
+<br>
 1)	Confidentiality:
 It ensures that data is private and is accessible to authorised personnel only.
 •	Sensitive info(passwords, personal data) is kept secret.
