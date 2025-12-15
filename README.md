@@ -77,7 +77,6 @@ CIA is the abbreviation for Confidentiality, Integrity and Availability; three p
 
 1)	Confidentiality:
 It ensures that data is private and is accessible to authorised personnel only.
-<br>
 •	Sensitive info(passwords, personal data) is kept secret.
 <br>
 •	Encryption, authentication, VPNs can be used to enhance confidentiality.
