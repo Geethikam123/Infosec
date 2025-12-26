@@ -25,3 +25,13 @@
 • Part of CIA triad - Integrity and availability.
 <br>
 • Common encoding schemes: ASCII, Base64, UTF-8.
+
+## Principle of Least Privilege
+
+• According to Principle of Least Privilege (PoLP), a user is given access to what one needs, instead of providing all the information.
+<br>
+• It reduces cyber attack surfaces, stops the spread of the malware, and limits user-end productivity.
+<br>
+• Supports CIA triad - Confidentiality and Integrity.
+<br>
+• Example: A student can read course materials on thr website but cannot modify grades.
