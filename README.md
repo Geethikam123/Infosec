@@ -25,6 +25,7 @@
 • Part of CIA triad - Integrity and availability.
 <br>
 • Common encoding schemes: ASCII, Base64, UTF-8.
+<br>
 
 ## Principle of Least Privilege
 
